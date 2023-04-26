@@ -75,7 +75,7 @@ endmodule
 ```
 
 ## Output:
-### Logic Diagram - Using NAND Operation:
+## Logic Diagram - Using NAND Operation:
 
 ### RTL Realization:
 ![out](https://github.com/abdulwasih2003/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/raw/main/1.png)
@@ -86,7 +86,7 @@ endmodule
 ### Timing Diagram:
 ![out](https://github.com/abdulwasih2003/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/raw/main/3.png)
 
-#### Logic Diagram - Using NOR Operation:
+## Logic Diagram - Using NOR Operation:
 ### RTL Realization:
 ![out](https://github.com/abdulwasih2003/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/raw/main/4.png)
 
